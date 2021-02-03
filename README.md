@@ -1,10 +1,10 @@
-#Customerbase GraphQL Server
+Customerbase GraphQL Server
 Node.js/Express CRUD backend using GraphQL and JSON-Server
 
-#Version
+Version
 1.0.0
 
-#Usage
+Usage
 -Install Dependencies
 
 $ npm install
